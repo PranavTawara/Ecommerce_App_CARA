@@ -1,0 +1,17 @@
+This is the Ecommerce that has both frontend and backend integrated in it.
+
+Some important Instructions:-
+
+=> To start the frontend of the project write "npm start".
+=> To start the backend of the project write "nodemon Index.js".
+
+Some backend related instruction-
+
+=> To add the admin/seed user write "http://localhost:8080/api/seed/seedUsers"
+this will add the user with admin previledges
+=> login "http://localhost:8080/api/user/login"
+
+=> If there is error in uploading the products write "http://localhost:8080/api/seed/seedProducts"
+this will update the data base with the products that are provided in the sample_controller as sample.
+
+=> for the search functionality write the exact product in the search bar then click search icon.
